@@ -1,0 +1,5 @@
+.section1 {background-color: yellow; visibility: hidden;}
+.section2 {background-color: red; visibility: hidden; position: relative; top: -420px;}
+#kitten {height: 250px; width: 250px;}
+#puppy {height: 250px; width: 250px;}
+footer{position: relative; top: -425px;}
